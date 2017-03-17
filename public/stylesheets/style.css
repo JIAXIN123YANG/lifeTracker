@@ -2,6 +2,9 @@ body {
   padding-top: 70px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
 }
+.azul{
+  color:blue;
+}
 
 .tracker-form {
   max-width: 800px;
@@ -23,4 +26,8 @@ body {
 .goal {
   font-size: 3ex;
   vertical-align: bottom;
+}
+
+btn btn-success{
+  color :red ;
 }
